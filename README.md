@@ -2,4 +2,4 @@
 EXERCICIOS  DO  SCRATCH
 
 #https://scratch.mit.edu/projects/498686090
-Projetos Programação e Algoritmos
+Variáveis e operadores aritméticos
